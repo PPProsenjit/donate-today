@@ -1,0 +1,45 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 30%;
+    color: white;
+}
+
+
+.top-banner {
+    padding: 5%;
+    height: 400px;
+    background-image: url(images/donation13.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+.top-banner p {
+    padding-bottom: 3%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.top-banner a {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato);
+    padding: 20px 50px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 5px;
+
+}
+
+.donate-button {
+    text-decoration: none;
+
+}
