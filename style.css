@@ -97,9 +97,12 @@ h4 {
     color: red;
 }
 
+.line {
+    margin-bottom: 2%;
+}
+
 .amount-tk {
     color: gray;
-    padding-bottom: 10px;
 }
 
 .donate-plan {
@@ -111,7 +114,8 @@ h4 {
     color: rgb(146, 142, 142);
 }
 
-#our-donate-plan {
+.our-donate-plan {
+    color: rgb(146, 142, 142);
     padding-left: 35%;
     padding-right: 35%;
 }
@@ -141,4 +145,48 @@ h4 {
 
 #education-for-a-child {
     background-color: rgb(245, 230, 207);
+}
+
+.my-update {
+    text-align: center;
+}
+
+.subscribe-to {
+
+    display: flex;
+    padding-top: 4%;
+    padding-left: 20%;
+    padding-right: 10%;
+    width: 40%;
+    padding-bottom: 3%;
+    background-color: blanchedalmond;
+
+    margin-right: 5%;
+}
+
+#email {
+    border-radius: 20px;
+    padding-top: 5%;
+    padding-right: 50%;
+    padding-left: 3%;
+    color: gray;
+    margin-right: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#subscribe {
+    padding: 5%;
+    border-radius: 15px;
+    margin-right: 10px;
+    background-color: rgb(171, 7, 7);
+    color: white;
+
+    box-shadow: 10px 10px 40px gray;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(86, 5, 22);
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
