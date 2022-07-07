@@ -60,6 +60,8 @@ h4 {
 
 
 
+
+
 .donate {
     font-size: 120%;
     padding-top: 10%;
@@ -158,11 +160,22 @@ h4 {
 .half-width {
     width: 50%;
     padding-left: 10%;
-    padding-right: 3%;
+    padding-right: 10%;
 }
 
 .half-width img {
     width: 80%;
+}
+
+.contribute-button {
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 5px;
+
 }
 
 
